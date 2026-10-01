@@ -52,3 +52,4 @@ Thumbs.db
 
 # GitHub Workflows (omitted for PAT permission restrictions)
 .github/
+.vercel

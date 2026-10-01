@@ -16,7 +16,7 @@
   Built with Next.js 14 App Router, Dexie.js IndexedDB binary caching, Zustand state machine, and multi-cloud serverless deployment.
 </p>
 
-[Architecture](#-the-antigravity-philosophy) • [Features](#-key-features) • [Installation](#-local-development-guide) • [Disclaimer](#-legal-disclaimer)
+[Live Demo](https://spotifree-three.vercel.app) • [Architecture](#-the-antigravity-philosophy) • [Features](#-key-features) • [Installation](#-local-development-guide) • [Disclaimer](#-legal-disclaimer)
 
 </div>
 
